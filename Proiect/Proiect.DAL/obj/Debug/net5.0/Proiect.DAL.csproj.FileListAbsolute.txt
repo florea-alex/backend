@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\cursuriAn2\.NET\laburi\Proiect\Proiect.DAL\bin\Debug\net5.0\Proiect.DAL.deps.json
+C:\Users\Asus\Desktop\cursuriAn2\.NET\laburi\Proiect\Proiect.DAL\bin\Debug\net5.0\Proiect.DAL.runtimeconfig.json
+C:\Users\Asus\Desktop\cursuriAn2\.NET\laburi\Proiect\Proiect.DAL\bin\Debug\net5.0\Proiect.DAL.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\cursuriAn2\.NET\laburi\Proiect\Proiect.DAL\bin\Debug\net5.0\Proiect.DAL.dll
+C:\Users\Asus\Desktop\cursuriAn2\.NET\laburi\Proiect\Proiect.DAL\bin\Debug\net5.0\ref\Proiect.DAL.dll
+C:\Users\Asus\Desktop\cursuriAn2\.NET\laburi\Proiect\Proiect.DAL\bin\Debug\net5.0\Proiect.DAL.pdb
+C:\Users\Asus\Desktop\cursuriAn2\.NET\laburi\Proiect\Proiect.DAL\obj\Debug\net5.0\Proiect.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\cursuriAn2\.NET\laburi\Proiect\Proiect.DAL\obj\Debug\net5.0\Proiect.DAL.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\cursuriAn2\.NET\laburi\Proiect\Proiect.DAL\obj\Debug\net5.0\Proiect.DAL.AssemblyInfo.cs
+C:\Users\Asus\Desktop\cursuriAn2\.NET\laburi\Proiect\Proiect.DAL\obj\Debug\net5.0\Proiect.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\cursuriAn2\.NET\laburi\Proiect\Proiect.DAL\obj\Debug\net5.0\Proiect.DAL.dll
+C:\Users\Asus\Desktop\cursuriAn2\.NET\laburi\Proiect\Proiect.DAL\obj\Debug\net5.0\ref\Proiect.DAL.dll
+C:\Users\Asus\Desktop\cursuriAn2\.NET\laburi\Proiect\Proiect.DAL\obj\Debug\net5.0\Proiect.DAL.pdb
+C:\Users\Asus\Desktop\cursuriAn2\.NET\laburi\Proiect\Proiect.DAL\obj\Debug\net5.0\Proiect.DAL.genruntimeconfig.cache
+C:\Users\Asus\Desktop\cursuriAn2\.NET\laburi\Proiect\Proiect.DAL\obj\Debug\net5.0\Proiect.DAL.csproj.AssemblyReference.cache
